@@ -19,6 +19,7 @@ A continuación se describen los cinco principales indicadores que se evaluaron:
 | Tienda 4 | 1,038,375,700.00           |
 
 ![Facturacion](Gráficos/Facturación.png)
+
 **Análisis:**  
 La **Tienda 4** tuvo la **facturación más baja**, lo que refleja una menor capacidad de generar ingresos frente a sus competidoras. Esta **diferencia de más de $112 millones frente a la tienda líder** es significativa y preocupante desde una perspectiva financiera.
 
@@ -34,6 +35,7 @@ Todas las tiendas comparten un patrón de consumo similar: **Muebles**, **Electr
 | Tienda 2 | Muebles                | 442      |
 | **Tienda 3** | **Muebles**       | **499**  |
 | Tienda 4 | Juguetes               | 338      |
+
 ![Categorpia](Gráficos/Ventas_Categoría.png)
 **Análisis:**  
 Aunque la Tienda 4 lidera en una categoría puntual (Juguetes), sus buenos resultados en unidades vendidas no se traducen en una facturación elevada. Esto sugiere que vende productos de menor valor o con márgenes más bajos, lo cual impacta negativamente su rentabilidad.
@@ -48,6 +50,7 @@ Aunque la Tienda 4 lidera en una categoría puntual (Juguetes), sus buenos resul
 | Tienda 2 | ⭐ 4.04                 |
 | Tienda 4 | ⭐ 4.00                 |
 | Tienda 1 | ⭐ 3.98                 |
+
 ![Calificación](Gráficos/Calificación_Promedio.png)
 **Análisis:**  
 La Tienda 4 mantiene una calificación aceptable, aunque no logra sobresalir. Tienda 3 obtiene la mejor valoración por parte de los clientes, lo que podría relacionarse con una mejor experiencia de compra. En contraste, Tienda 1, a pesar de tener la mayor facturación, presenta la calificación más baja.
@@ -74,6 +77,7 @@ La rotación de productos refleja qué tan bien se están vendiendo los artícul
 | Tienda 2 | 25,216.24                   |
 | Tienda 3 | 24,805.68                   |
 | Tienda 4 | 23,459.46                   |
+
 ![Logística](Gráficos/Promedio_Envíos.png)
 **Análisis:**  
 Aunque la Tienda 4 muestra el menor costo logístico, esto no compensa su bajo rendimiento general. Un menor costo puede deberse a una menor cobertura, menor volumen de pedidos o una estructura logística limitada, lo que podría ser un síntoma más que una ventaja.
